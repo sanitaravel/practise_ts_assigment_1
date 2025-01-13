@@ -1,0 +1,13 @@
+{
+  "name": "cs_programming_ts-boilerplate",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "author": "Marco Lilli",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  }
+}
